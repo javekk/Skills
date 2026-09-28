@@ -15,6 +15,14 @@ Skills are reusable instructions Claude Code loads on demand. Each lives in its 
 | [tutor](skills/tutor/SKILL.md) | Learning mode for something new (language, framework, pattern): explain what's wrong and why, don't just fix it |
 | [concise](skills/concise/SKILL.md) | Senior-engineer pairing mode: fast, direct, and token-frugal |
 
+### Domain design
+
+| Skill | Description |
+| --- | --- |
+| [grill-me](skills/grill-me/SKILL.md) | Interview me one question at a time until the plan is clear, grounded in `DOMAIN.md` |
+| [craft-domain](skills/craft-domain/SKILL.md) | Create or evolve the DDD model in `DOMAIN.md` (Markdown + Mermaid), settled via grill-me |
+| [init-project](skills/init-project/SKILL.md) | Lay a new project's foundations: vision, first domain, minimal scaffold; unknowns stay open |
+
 ### Workflow
 
 | Skill | Description |
