@@ -14,6 +14,7 @@ Skills are reusable instructions Claude Code loads on demand. Each lives in its 
 | --- | --- |
 | [tutor](skills/tutor/SKILL.md) | Learning mode for something new (language, framework, pattern): explain what's wrong and why, don't just fix it |
 | [concise](skills/concise/SKILL.md) | Senior-engineer pairing mode: fast, direct, and token-frugal |
+| [course](skills/course/SKILL.md) | Guided hands-on course, small or multi-session: syllabus in `COURSE.md`, one small step per turn, hints not solutions |
 
 ### Domain design
 
